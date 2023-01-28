@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/TG-V4MP1R3/Alexa-V2",
-    "repository": "https://github.com/TG-V4MP1R3/Alexa-V2",
+    "repository": "https://github.com/senapatisachi111/Alexa-V2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -116,7 +116,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
